@@ -5,19 +5,19 @@ Objetivo: Organizar multiplos projetos e tarefas.
 
 Entidades:
 
-- Projeto;
-  Nome
-  Descrição
-  Data de criação
-  Data de atualização
-- Tarefa;
-  Nome
-  Descrição
-  Status
-  Observações
-  Prazo
-  Data de criação
-  Data de atualização
+* Projeto;
+ - Nome
+ - Descrição
+ - Data de criação
+ - Data de atualização
+* Tarefa;
+ - Nome
+ - Descrição
+ - Status
+ - Observações
+ - Prazo
+ - Data de criação
+ - Data de atualização
   
 Requisitos:
  - Criar, alterar ou deletar um projeto
